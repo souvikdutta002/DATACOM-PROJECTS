@@ -366,6 +366,13 @@ The risk assessment was conducted based on:
 ---
 
 
+## 📎 About the Program
+
+This project was completed as part of the **Datacom Cybersecurity Job Simulation on Forage**, which provides real-world experience in cybersecurity operations, incident response, and risk management.
+
+---
+
+
 # 💫 About Me:
 As a dedicated Cybersecurity student at The Neotia University, I am committed to building a strong foundation in network security, ethical hacking, and threat analysis. My journey so far has included hands-on internships and industry-backed simulations, where I’ve developed a keen understanding of how to protect digital environments against evolving threats.
 
